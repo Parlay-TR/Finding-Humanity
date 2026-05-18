@@ -4,9 +4,11 @@
 "Finding Humanity" is a tension-driven extraction shooter and zombie survival game. Thrust into a bleak, post-apocalyptic environment, the player's primary goal is to locate three critical mechanical components: a gear, a car key, and gasoline. These items are essential to start an abandoned police car and successfully extract from the area. Armed with only a single AK-47 and limited resources, players must navigate the dangerous terrain, fend off relentless zombie hordes, and prioritize their survival to escape the quarantine zone.
 
  What I Did (Individual Contributions)
- Arda Ciril:
-  * Conducted extensive bug fixing to ensure smooth and stable gameplay.
-  * Designed and integrated character models and animations into the game engine.
+ Arda Aydemir:
+  * Served as the core Game Designer, defining the extraction and survival mechanics.
+  * Wrote the C# scripts and programmed the core gameplay loops, player mechanics, and enemy AI.
+  * Designed the level architecture, placing loot and planning zombie spawn points (Level Design).
+
  Emin Köşgen:
   * Created the complete sound design, including environmental audio, weapon sounds, and zombie feedback.
   * Designed and implemented the User Interface (UI), including the main menu and in-game HUD.
